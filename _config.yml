@@ -28,9 +28,9 @@ En tant que directeur de recherche, j'ai co-dirigé six thèses de doctorat, don
 
 En outre, j'ai co-dirigé le développement de Xtingue, une plateforme dynamique d'évaluation des risques d'incendie, mise en œuvre dans la région de Valparaíso au Chili. Ce projet intègre des modèles statistiques avancés pour la prédiction et la gestion des incendies dans des contextes caractérisés par une forte dépendance temporelle et une dépendence spatiale localment stationaire."
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Xtingue: "https://xtingue.cl"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
