@@ -20,7 +20,13 @@ author: Lisandro Fermin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Actuellement professeur invité (MCF 1698) au Laboratoire Modal'X de l'Université Paris Nanterre, je mène un projet de recherche sur les méthodes de validation croisée et la sélection de modèles pour les données spatiales dépendantes. Parallèlement, je suis professeur au CIMFAV de l'Université de Valparaíso au Chili, où j'ai exercé les fonctions de directeur du centre de recherche jusqu'en septembre 2024.
+ 
+ Mon expérience dans la formation académique universitaire est étendue et diversifiée : à l'Université de Valparaíso, je participe à la formation des ingénieurs mathématiciens en enseignant des cours allant du niveau licence à des cours avancés. Je fais également partie du corps professoral du doctorat en mathématiques et de celui du doctorat en statistiques, où j'enseigne principalement des cours sur la modélisation statistique ainsi que sur les processus stochastiques. En outre, j'ai dirigé plusieurs mémoires de fin d'études pour des étudiants ingénieurs et de master en mathématiques, travaillant sur des problématiques appliquées à l'ingénierie.
+
+En tant que directeur de recherche, j'ai co-dirigé six thèses de doctorat, dont trois sont actuellement en cours : deux au sein du doctorat en statistiques et une dans le doctorat en mathématiques. Parmi ces thèses, l'une est en cotutelle avec l'Université Paris Nanterre. Par ailleurs, je participe activement à différents projets de recherche dans les domaines de la statistique et des processus stochastiques, abordant des thématiques variées telles que les processus stochastiques fractionnaires appliqués à la finance, l'estimation non paramétrique dans les modèles de régression avec des dépendances faibles et fortes, ainsi que d'autres problématiques liées aux statistiques et aux processus stochastiques.
+
+En outre, j'ai co-dirigé le développement de Xtingue, une plateforme dynamique d'évaluation des risques d'incendie, mise en œuvre dans la région de Valparaíso au Chili. Ce projet intègre des modèles statistiques avancés pour la prédiction et la gestion des incendies dans des contextes caractérisés par une forte dépendance temporelle et une dépendence spatiale localment stationaire."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
